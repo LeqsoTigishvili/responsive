@@ -1,0 +1,146 @@
+@media (max-width:1024px) {
+    
+
+     
+}
+@media (max-width:768px) {
+    
+    .header-div{
+        height: 200px;
+    }
+    .navigation{
+        display: none;
+        
+    }
+    .row-1-2{
+        flex-direction: column;
+        margin-left: 200px;
+        width: 45%;
+
+    }
+    .row-1{
+        flex-direction: column;
+        margin-left: 200px;
+        width: 45%;
+
+
+    }
+    .block-1-2{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .block-2-2{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .surati1{
+        display: none;
+    }
+    .part1{
+        height: 500px;
+        margin-left: 350px;
+        margin-bottom: 150px;
+    }
+    .button1{
+        margin-left: 100px;
+    }
+    .block-1{
+        margin-right: 350px;
+    }
+    .picture-div{
+        display: none;
+    }
+
+}
+@media (max-width:480px) {
+    
+
+    .header-div{
+        height: 200px;
+    }
+    .navigation{
+        display: none;
+        
+    }
+    .row-1-2{
+        flex-direction: column;
+        margin-left: 200px;
+
+    }
+    .row-1{
+        flex-direction: column;
+        margin-left: 200px;
+
+
+    }
+    .block-1-2{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .block-2-2{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .surati1{
+        display: none;
+    }
+    .part1{
+        height: 500px;
+        margin-left: 350px;
+        margin-bottom: 150px;
+    }
+    .button1{
+        margin-left: 100px;
+    }
+    .centre-div{
+        margin-left: 150px;
+    }
+
+}
+@media (max-width:320px) {
+    
+    .header-div{
+        height: 200px;
+    }
+    .navigation{
+        display: none;
+        
+    }
+    .row-1-2{
+        flex-direction: column;
+        margin-left: 200px;
+
+    }
+    .row-1{
+        flex-direction: column;
+        margin-left: 200px;
+
+
+    }
+    .block-1-2{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .block-2-2{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .surati1{
+        display: none;
+    }
+    .part1{
+        height: 500px;
+        margin-left: 350px;
+        margin-bottom: 150px;
+    }
+    .button1{
+        margin-left: 100px;
+    }
+    .centre-div{
+        margin-left: 150px;
+    }
+
+
+
+
+}
